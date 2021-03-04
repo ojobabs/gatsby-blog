@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a Lowcode advocate and a software developer, based in Lagos Nigeria. He works as a Lowcode Engineer for Ehealth4everyone foundation.
+I'm a Lowcode advocate and a software developer, based in Lagos Nigeria. I work as a Lowcode Engineer and starting out with technical writing *et* review [😉](https://graphemica.com/%F0%9F%98%89)
