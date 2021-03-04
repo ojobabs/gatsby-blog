@@ -2,11 +2,11 @@
   "meta": {
     "title": "Babatunde Ojo",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "A  blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Babatunde Ojo",
+    "siteUrl": "#",
+    "image": "/assets/signature.png",
+    "iconimage": "/assets/signature-1-.png",
+    "twitterUsername": "@Babs_tinapa"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
