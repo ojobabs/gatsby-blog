@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Babatunde Ojo
 tagline: Software developer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/download.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
