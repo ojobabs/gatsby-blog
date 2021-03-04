@@ -1,8 +1,9 @@
 ---
 template: blog-post
-slug: /markdown
-date: 2020-05-09T05:53:16.102Z
 title: "Markdown: Syntax"
+slug: /markdown
+date: 2021-03-04 03:44
+description: Markdown for beginners, All about .md
 featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
 ---
 
